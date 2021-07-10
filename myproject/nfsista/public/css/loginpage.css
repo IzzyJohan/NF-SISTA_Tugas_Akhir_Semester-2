@@ -1,0 +1,159 @@
+@media screen and (max-width: 920px) {
+    a, p, .col-pin-formlogin {
+        font-size: 14px;
+    }
+    h2 {
+       font-size: 22px;
+    }
+    .login-button a {
+        font-size: 16px ;
+    }
+}
+ @media screen and (max-width: 600px) {
+    a, p, .col-pin-formlogin {
+        font-size: 12px;
+    }
+    h2 {
+       font-size: 18px;
+    }
+    .login-button a {
+        font-size: 14px ;
+    }
+}
+@media screen and (max-width: 420px) {
+    a, p, .col-pin-formlogin {
+        font-size: 12px;
+    }
+    h2 {
+        font-size: 16px;
+    }
+    .login-icon i {
+        font-size: 70px;
+    }
+    .login-button a {
+        font-size: 14px ;
+    }
+}
+
+.container-fluid {
+    position: relative;
+    min-height: 100vh;
+    background-color: #f1f1f1;
+  }
+  
+.row-pin-title {
+    padding-bottom: 1em;
+    background-color: #f1f1f1;
+}
+
+.col-pin-title {
+    background-color: #f1f1f1;
+}
+
+.card-pin-title {
+    text-align: center;
+    background-image: linear-gradient(to right, #2F80ED, #56CCF2); 
+    box-shadow: 5px 5px 5px rgb(207, 207, 207);
+}
+
+.row-pin-nav {
+    padding-bottom: 1em;
+    background-color: #f1f1f1;
+}
+
+.col-pin-nav {
+    background-color: #f1f1f1; 
+}
+
+.col-pin-nav a {
+    border-radius: 4px;
+}
+
+.row-pin-formlogin {
+    padding-bottom: 9.5em;
+    background-color: #f1f1f1;
+}
+  
+.col-pin-formlogin {
+    background-color: #f1f1f1;
+}
+  
+.card-pin-formlogin {
+    box-shadow: 3px 3px 3px rgb(230, 230, 230);
+    max-width: 30em;
+    margin: auto;   
+}
+
+.login-icon {
+    font-size: 100px;
+    text-align: center;
+    color: #9c9c9c;
+}
+
+.login-u-pw input {
+    width: 100%;
+    height: 36px;
+}
+
+.login-u-pw label {
+    padding-top: 0.5em;
+}
+
+.login-button a {
+    width: 100%;
+    border-radius: 0;
+    height: 40px;
+    padding-top: 11px;
+}
+
+.login-button {
+    font-size: 20px;
+    padding-top: 1.5em;
+}
+
+.login-checkbox label {
+    padding-left: 0.5em;
+    padding-top: 1em;    
+}
+
+.sign-up-pin {
+    float: right;
+    padding-top: 1em;
+}
+
+.sign-up-pin a {
+    text-decoration: none;
+}
+
+.row-pin-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+  
+.col-pin-footer {
+    background-color: white;
+    padding: 5px 0 20px 0;
+}
+  
+.footer a {
+    text-decoration: none;
+    color: rgb(161, 161, 161);
+    position: absolute; 
+    left: 50%; 
+    transform: translate(-50%, 0);
+}
+  
+.left- {
+    float: left;
+    padding-left: 2%;
+    color: rgb(161, 161, 161);
+}
+  
+  .footer a:hover {
+    color: rgb(122, 122, 122);
+}
+  
+
+
+
